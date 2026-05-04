@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BmiApplication<bmi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tericcabrel.bmi.BmiApplication",
+            "projectName": "bmi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

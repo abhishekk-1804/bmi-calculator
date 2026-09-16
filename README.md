@@ -263,7 +263,6 @@ The project is suitable as a focused learning application, but it is not present
 
 - GitHub: [abhishekk-1804](https://github.com/abhishekk-1804)
 
-## References
 
 [1]: https://spring.io/projects/spring-boot "Spring Boot project documentation"
 [2]: https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html "Thymeleaf and Spring tutorial"
